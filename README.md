@@ -1,6 +1,7 @@
 # MachineLearning-2
 
 Welcome to the Machine Learning Algorithms Repository! This repository is a collection of various machine-learning algorithms implemented in Python. 
+
 ---
 
 ### Table of Contents
@@ -14,6 +15,7 @@ Welcome to the Machine Learning Algorithms Repository! This repository is a coll
 ### Introduction
 Machine learning is a fascinating field that empowers computers to learn patterns from data and make predictions or decisions. <br>
 This repository will contain a comprehensive collection of machine learning algorithms, each with clear and concise implementations of supervised learning, unsupervised learning, or reinforcement learning.
+
 ---
 
 ### Algorithms
@@ -42,6 +44,7 @@ Each algorithm is organized into its directory, containing the source code, a RE
   cd MachineLearnign-2
 ```
 Explore the algorithms directory to find the algorithm.
+
 ---
 
 ### Dependencies
@@ -56,14 +59,11 @@ Libraries:
   6. TensorFlow (for neural networks)
   7. pytorch (for neural networks)
   8. keras (for neural networks)
+
 ---
 
 ### Usage
 This repository is created to help me study and practice machine learning.
----
-
-##Visuals
-![Info-gr-01-872x2880](https://github.com/RATHOD-SHUBHAM/MachineLearning-2/assets/58945964/453e06a6-c26a-4f13-a264-c74fce1d505d)
 
 ---
 Happy coding and exploring the world of machine learning!
