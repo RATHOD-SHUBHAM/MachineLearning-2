@@ -3,6 +3,8 @@ Isolation Forest for anomaly detection (study script).
 
 Uses scikit-learn on the credit card fraud dataset. Labels are only for
 evaluation — the model is trained without them, like real unsupervised use.
+
+Dataset: https://drive.google.com/file/d/1shGMkjBDTFkOM5JJO_VlzXCNCpnoA9TA/view?usp=drive_link
 """
 
 from pathlib import Path
