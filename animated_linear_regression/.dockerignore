@@ -1,0 +1,11 @@
+alr/
+outputs/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+.git/
+my_learnings/
+*.md
+!README.md
