@@ -18,6 +18,7 @@ Loss defines the optimization target. Interviewers check whether you connect out
 - Avoid when: MSE on classification probabilities — wrong gradient shape; BCE with wrong label encoding (need 0/1 not -1/1 unless modified).
 
 ## If they dig deeper
+- Loss (per example) vs cost (average over set) — [`02_Machine_Learning/19_loss_vs_cost.md`](../02_Machine_Learning/19_loss_vs_cost.md).
 - MAE (L1) vs MSE — MAE more robust to outliers, MSE smooth for gradient descent.
 - Focal loss — down-weights easy examples for imbalanced detection.
 - Label smoothing — softens one-hot targets to reduce overconfidence.

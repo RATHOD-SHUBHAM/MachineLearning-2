@@ -35,7 +35,7 @@ Template every file follows:
 9. Softmax and cross-entropy
 
 ### 02 Machine Learning
-**Vocabulary** → **Classification metrics** → **Regression metrics** → **Algorithms** → **Anomaly detection**
+**Vocabulary** → **Classification metrics** → **Regression metrics** → **Algorithms** → **Anomaly detection** → **Ranking / LM metrics**
 
 1. What is ML
 2. Features, labels, params vs hyperparameters
@@ -55,24 +55,31 @@ Template every file follows:
 16. F1
 17. Precision–recall tradeoff + threshold
 18. ROC and AUC
-19. MAE
-20. MSE
-21. RMSE
-22. R² / Adjusted R²
-23. Linear regression
-24. Gradient descent
-25. Logistic regression
-26. Regularization (L1/L2)
-27. Decision trees
-28. Random forest
-29. SVM
-30. K-means
-31. PCA
-32. Anomaly detection overview
-33. Isolation Forest
-34. DBSCAN
-35. LOF (Local Outlier Factor)
-36. One-Class SVM
+19. PR-AUC
+20. Log loss (cross-entropy metric)
+21. Loss vs cost function
+22. MAE
+23. MSE
+24. RMSE
+25. R² / Adjusted R²
+26. MAPE
+27. Linear regression
+28. Gradient descent
+29. Logistic regression
+30. Regularization (L1/L2)
+31. Decision trees
+32. Random forest
+33. SVM
+34. K-means
+35. PCA
+36. Anomaly detection overview
+37. Isolation Forest
+38. DBSCAN
+39. LOF (Local Outlier Factor)
+40. One-Class SVM
+41. NDCG
+42. Hit Rate
+43. Perplexity
 
 ### 03 Neural Networks
 1. Perceptron / neuron

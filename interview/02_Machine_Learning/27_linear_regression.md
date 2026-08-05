@@ -18,7 +18,7 @@ It is the simplest supervised model and the gateway to gradient descent, regular
 - Avoid when: interactions and nonlinearities dominate, outliers are heavy (MSE is sensitive), or you need calibrated probabilities.
 
 ## If they dig deeper
-- Metrics: MAE / MSE / RMSE / R² — see notes `19`–`22` in this folder.
+- Metrics: MAE / MSE / RMSE / R² / MAPE — see notes `22`–`26`. Loss vs cost: `21`. Classification extras: PR-AUC `19`, log loss `20`.
 - Normal equation vs gradient descent — closed form is O(n³) in features; GD scales better for large n or online learning.
 - Multicollinearity inflates weight variance — regularization or feature selection helps.
 - Residual plots reveal nonlinearity — if curved, try polynomial features, trees, or a different model.
